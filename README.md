@@ -1,23 +1,21 @@
-
-
-# 📈 Stock Price Prediction Model
+#  Stock Price Prediction Model
 
 A **Machine Learning project (2024 – Present)** that predicts stock prices using **time-series data**. The project implements **LSTM networks** for sequential prediction, **XGBoost** for regression-based forecasting, and a custom **Ensemble model (XGBoost + LSTM)** to combine the strengths of both approaches.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* ✅ **Data Preprocessing** using Pandas & NumPy
-* ✅ **Visualization** with Matplotlib for trend analysis
-* ✅ **LSTM (Long Short-Term Memory)** for sequential time-series prediction
-* ✅ **XGBoost (Extreme Gradient Boosting)** for regression-based forecasting
-* ✅ **Ensemble Model** (LSTM + XGBoost) for improved accuracy
-* ✅ Modular, extensible Python code
+*  **Data Preprocessing** using Pandas & NumPy
+*  **Visualization** with Matplotlib for trend analysis
+*  **LSTM (Long Short-Term Memory)** for sequential time-series prediction
+*  **XGBoost (Extreme Gradient Boosting)** for regression-based forecasting
+*  **Ensemble Model** (LSTM + XGBoost) for improved accuracy
+*  Modular, extensible Python code
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Libraries & Tools:**
@@ -30,7 +28,7 @@ A **Machine Learning project (2024 – Present)** that predicts stock prices usi
 
 ---
 
-## 📊 Models Implemented
+##  Models Implemented
 
 1. **LSTM Model** – Captures sequential dependencies in stock prices.
 2. **XGBoost Model** – Learns regression patterns efficiently.
@@ -38,7 +36,7 @@ A **Machine Learning project (2024 – Present)** that predicts stock prices usi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Stock-Price-Prediction/
@@ -56,7 +54,7 @@ Stock-Price-Prediction/
 
 ---
 
-## ⚡ Installation & Usage
+##  Installation & Usage
 
 1. Clone the repository
 
@@ -79,10 +77,8 @@ Stock-Price-Prediction/
 
 ---
 
-## 📈 Results
+##  Results
 
 * LSTM captures long-term stock trends.
 * XGBoost performs well on short-term fluctuations.
 * **Ensemble model outperforms individual models** by combining sequential + regression strengths.
-
-
