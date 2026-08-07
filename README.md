@@ -59,7 +59,7 @@ Stock-Price-Prediction/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/Stock-Price-Prediction.git
+   git clone https://github.com/ACUTE02/Stock-Price-Prediction.git
    cd Stock-Price-Prediction
    ```
 
